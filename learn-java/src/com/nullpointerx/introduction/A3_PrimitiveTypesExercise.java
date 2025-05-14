@@ -1,6 +1,6 @@
 package com.nullpointerx.introduction;
 
-public class PrimitiveTypesExercise {
+public class A3_PrimitiveTypesExercise {
     /**
      *
      * int, double, float, char, byte, short, long, boolean
