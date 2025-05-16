@@ -33,22 +33,6 @@ public class Topicos {
 ```
 
 
-## 🎯 Metas de Aprendizado
-
-- [ ] Dominar sintaxe básica
-- [ ] Compreender estruturas de controle
-- [ ] Aprender OOP (Classes, Herança, Polimorfismo)
-- [ ] Implementar 15 exercícios resolvidos
-
-## 📊 Progresso Atual
-
-```mermaid
-pie
-    title Progresso por Área
-    "Fundamentos" : 5
-    "OOP" : 0
-    "Outros" : 0
-```
 
 ## 🤝 Como Contribuir
 
